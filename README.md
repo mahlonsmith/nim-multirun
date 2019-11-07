@@ -14,8 +14,9 @@ It is meant to be used in a
 [daemontools](http://cr.yp.to/daemontools.html) pipeline.
 
 If you need anything more complex, see
-[foreman](https://github.com/ddollar/foreman/) or one of its many clones
-- this tool is limited to doing only one thing with low resource usage.
+[foreman](https://github.com/ddollar/foreman/) or one of its many
+clones.  This tool is limited to doing only one thing with low resource
+usage.
 
 
 Installation
